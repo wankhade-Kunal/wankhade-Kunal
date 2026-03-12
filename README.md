@@ -53,11 +53,6 @@ A secure password manager built with modern web technologies.
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wankhade-Kunal&show_icons=true&theme=radical)
-
----
-
 
 ## 📫 Connect With Me
 - GitHub: https://github.com/wankhade-Kunal
