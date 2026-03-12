@@ -1,16 +1,63 @@
-## Hi there 👋
+# Hi 👋, I'm Kunal
 
-<!--
-**wankhade-Kunal/wankhade-Kunal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Software Developer | Full Stack Developer  
+🚀 Passionate about building scalable web applications and real-world projects.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 About Me
+- 💻 Full Stack Developer
+- 🌱 Currently learning **System Design**
+- ⚡ Love building practical and efficient software
+
+---
+
+## 🚀 Tech Stack
+
+### Languages
+- C++
+- Python
+- JavaScript
+- C
+
+### Frontend
+- HTML
+- CSS
+- React.js
+
+### Backend
+- Node.js
+- Express.js
+
+### Database
+- MongoDB
+- MySQL
+
+### Tools
+- Git
+- GitHub
+- Postman
+- VS Code
+
+---
+
+## 📂 Projects
+🔹 **Hospital Management System**  
+A system for managing hospital records and patient data.
+
+🔹 **Mini Budget Planner**  
+A simple web application to track expenses and manage budgets.
+
+🔹 **SecurePass (Password Manager)**  
+A secure password manager built with modern web technologies.
+
+---
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wankhade-Kunal&show_icons=true&theme=radical)
+
+---
+
+
+## 📫 Connect With Me
+- GitHub: https://github.com/wankhade-Kunal
