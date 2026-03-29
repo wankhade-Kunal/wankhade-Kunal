@@ -48,8 +48,8 @@ A system for managing hospital records and patient data.
 🔹 **Mini Budget Planner**  
 A simple web application to track expenses and manage budgets.
 
-🔹 **SecurePass (Password Manager)**  
-A secure password manager built with modern web technologies.
+🔹 **DevAssist AI**  
+Integrated OpenAI API to deliver intelligent conversational assistance across multiple use cases.
 
 ---
 
